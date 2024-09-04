@@ -107,7 +107,7 @@ Invalid command: deposit 12345678 5000
 ## How to Run
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/banking-system.git
+   git clone [https://github.com/yourusername/banking-system.git](https://gitlab.com/smomohturay/st3387-sam-turay-jr-summer-2024-001-se-181)
    ```
    
 2. **Open In IntelliJ**:
