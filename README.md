@@ -3,6 +3,8 @@
 ## Overview
 This project implements a simple banking system in Java. The system supports the management of three types of bank accounts: checking, savings, and certificate of deposit (CD). The project processes a list of commands (in the form of strings), and performs various banking operations such as account creation, deposits, withdrawals, transfers, and time progression. Invalid commands are stored and outputted for user review. There is no direct user input or output; instead, the system interacts via a public method that takes a list of commands as input and returns a list of strings as output.
 
+**[Link to GITLAB repository](/https://gitlab.com/smomohturay/st3387-sam-turay-jr-summer-2024-001-se-181)**
+
 ## Features
 - **Account Types Supported**:
   - Checking accounts
